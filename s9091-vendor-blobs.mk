@@ -181,4 +181,7 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s9091/proprietary/bin/memorydumper:system/bin/memorydumper \
     vendor/wiko/s9091/proprietary/bin/mobile_log_d:system/bin/mobile_log_d \
     vendor/wiko/s9091/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
-    vendor/wiko/s9091/proprietary/framework/com.mediatek.location.provider.jar:system/framework/com.mediatek.location.provider.jar
+    vendor/wiko/s9091/proprietary/framework/com.mediatek.location.provider.jar:system/framework/com.mediatek.location.provider.jar\
+    vendor/wiko/s9091/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so\
+    vendor/wiko/s9091/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so\
+    vendor/wiko/s9091/proprietary/lib/libmatv_cust.so:system/lib/libmatv_cust.so   
